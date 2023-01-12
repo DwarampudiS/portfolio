@@ -1,0 +1,239 @@
+{
+  "basic_info": {
+    "description_header": "Hi",
+    "description": "👋 I'm Saranya Dwarampudi. I have 6 years of experience in developing Web Applications using HTML(5), CSS(3),TypeScript, Angular(6/8/9/12). Thank you",
+    "section_name": {
+      "about": "About me",
+      "projects": "Projects",
+      "skills": "Skills",
+      "experience": "Experience"
+    }
+  },
+  "projects": [
+    {
+      "title": "TSO",
+      "startDate": "Tata Consultancy Services Nov 2021 - Present",
+      "description": "TS Overgave application is a small application used by KLM Royal Dutch airlines for logging complaints like technical aircraft problems, tracking the status of problems etc...",
+      "images": [],
+      "url": "",
+      "technologies": [
+        "Being a sole Angular Developer, i handled all the front end requirments of this appication and delivered.",
+        "Involved in <b>meetings with clients</b> to understand the existing MS Access application and the the scope criticality of the new business needs.",
+        "Worked with clients and <b>provided them the recommendations</b> that would help ensure they achieved their overall business goals.",
+        "Designing and developing the web application using <b>Angular12/13/14, HTML5, SCSS,Angular Material, TypeScript</b>",
+        "Developed the application using <b>Reactive forms</b>",
+        "Tested <b>REST API's</b> using <b>Postman</b> and integrated into angular application.",
+        "Implemented <b>custom PIPES, AuthGuard. Resolvers, Interceptor</b>.",
+        "Implemented Angular <b>Router</b> with <b>Guards</b> to enable navigation from one view to the nextas customer performs application tasks.",
+        "Implemented <b>print</b> and <b>attachment</b> functionality.",
+        "Added <b>media queries to support Desktop, Laptop, iPad</b>.",
+        "Used JSON to send request to the server to check the functionality of the websites and for storing and exchanging information between browser and servers.",
+        "Worked on <b>Bitbucket, GitHub</b> as a version control",
+        "Designed and developed the application using <b>Agile Scrum methodology</b> by breaking down the project to several sprints.",
+        "Used <b>JIRA</b> to keep track of bugs to reduce downtime, increase productivity, and improve communication.",
+        "Worked with <b>JASMINE</b> unit test framework to write unit test cases and increased the code quality to 93%",
+        "Used <b>PostgreSQL</b> for testing data.",
+        "Deployed application in <b>Azure cloud</b>.",
+        "<b>Created defect tracking</b> using JIRA and <b>reviewed them in subsequent iterations</b> of the application development process.",
+        "<b>Planned test cases</b> for the application and implemented them to ensure that the requirements were met.",
+        "<b>Conducted sprint planning meetings</b> to prioritize backlogs for design and development and sprint review meetings to identify the gaps in the project and address them in subsequent sprint cycles."
+      ]
+    },
+    {
+      "title": "Assessor - Web Application",
+      "startDate": "Tata Consultancy Services Nov 2021 - Present",
+      "description": "Assessor application is used to create and configure exams. The application was developed by ROC team, since the Rest API is developed in Django( not a standard solution, we had to rebuild it using spring boot). Web application is developed in ReactJS.",
+      "images": [],
+      "url": "",
+      "technologies": [
+        "I was lead on this application, i coordinated with other 2 junior front end developers.",
+        "Analyzed how <b>react application</b> was build and understood the <b>state and lifecycle</b> of the application.",
+        "Integrated frontend react application with spring boot.",
+        "Developed few requirements in the application.",
+        "Tested <b>REST API's using Postman and integrated into react application</b>.",
+        "Used JSON to send request to the server to check the functionality of the websites and for storing and exchanging information between browser and servers.",
+        "Worked on <b>GitHub</b> as a version control.",
+        "Integrated the application using <b>Agile Scrum methodology</b> by breaking down the project to several sprints.",
+        "Used <b>JIRA</b> to keep track of bugs to reduce downtime, increase productivity, and improve communication.",
+        "Deployed application in <b>Azure cloud.</b>"
+      ]
+    },
+    {
+      "title": "Assessor - Ionic Application",
+      "startDate": "Tata Consultancy Services Nov 2021 - Present",
+      "description": "Assessor mobile application is used by the assessor for evaluation The application was developed by ROC team, since the Rest API is developed in Django( not a standard solution, we had to rebuild it using spring boot). Mobile application is developed in ionic-react.",
+      "images": [],
+      "url": "",
+      "technologies": [
+        "I was lead on this application, i coordinated with other 2 junior front end developers.",
+        "Analyzed how <b>mobile application</b> was build and understood the state and lifecycle of the application.",
+        "Integrated frontend mobile application with spring boot.",
+        "Developed few requirements in the mobile application.",
+        "Used JSON to send request to the server to check the functionality of the websites and for storing and exchanging information between browser and servers.",
+        "Worked on <b>GitHub</b> as a version control.",
+        "Integrated the application using <b>Agile Scrum methodology</b> by breaking down the project to several sprints.",
+        "Used <b>JIRA</b> to keep track of bugs to reduce downtime, increase productivity, and improve communication."
+      ]
+    },
+    {
+      "title": "Facets",
+      "startDate": "Cognizant Dec 2020 – Nov 2021",
+      "description": "Facets application is related to healthcare domain and is an enterprise-wide core solution that automates claims processing, billing, care management and network management workflow",
+      "images": [],
+      "url": "",
+      "technologies": [
+        "I contributed to the team as a senior angular developer.",
+        "Developed the web application using <b>Angular 10/12, HTML5, CSS3, KENDO UI, TypeScript.</b>",
+        "Developed the application using <b>Kendo Grid UI</b>.",
+        " Used JSON to send request to the server to check the functionality of the websites and for storing and exchanging information between browser and servers.",
+        "Tested the data in Oracle database using SQL queries",
+        "Worked on <b>TFS as a version control</b>",
+        "Designed and developed the application using <b>Agile Scrum methodology</b> by breaking down the project to several sprints.",
+        "Responsible for conducting meetings, twice a week for developer’s, to discuss and solve the issues.",
+        "Used <b>Azure DevOps</b> to keep track of bugs to reduce downtime, increase productivity, and improve communication.",
+        "Written unit text cases for <b>manual testing</b>."
+      ]
+    },
+    {
+      "title": "MTP",
+      "startDate": "Accion Labs Jun 2019 – Dec 2020",
+      "description": "MTP is a web application used to Enroll, Manage and Track all the Trade Programs",
+      "images": [],
+      "url": "",
+      "technologies": [
+        "I contributed to the team as a angular developer.",
+        "Developed the web application using <b>Angular 9, HTML5, CSS3, IGNITE UI, TypeScript</b>.",
+        "Developed the application using <b>Reactive forms, RXJS</b>.",
+        "Implemented <b>AuthGuard, Resolvers and Lazy Loading</b>.",
+        "Implemented Angular <b>Router</b> with <b>Guards</b> to enable navigation from one view to the next as customer performs application tasks.",
+        "Used JSON to send request to the server to check the functionality of the websites and for storing and exchanging information between browser and servers.",
+        "Tested the data in <b>Oracle</b> database using SQL queries.",
+        "Worked on <b>TFS</b> as a version control.",
+        "Designed and developed the application using <b>Agile Scrum methodology</b> by breaking down the project to several sprints.",
+        "Used <b>JIRA</b> to keep track of bugs to reduce downtime, increase productivity, and improve communication."
+      ]
+    },
+    {
+      "title": "Time Tracker",
+      "startDate": "InRhythm Solutions Jul 2016 - May 2019",
+      "description": "Time Tracker application which is used across the company to track employees' work.",
+      "images": [],
+      "url": "",
+      "technologies": [
+        "I contributed to the team as a junior angular developer.",
+        "Developed the web application using <b>Angular 6/7, HTML5, CSS3, PrimeNg, Bootstrap, TypeScript</b>.",
+        "Developed the application using <b>Reactive forms, RXJS</b>.",
+        "Implemented <b>Resolvers and Lazy Loading</b>.",
+        "Implemented Angular <b>Router</b> to enable navigation from one view to the next as customer performs application tasks.",
+        "Used <b>Chrome developer tool</b> for element styling.",
+        "Used JSON to send request to the server to check the functionality of the websites and for storing and exchanging information between browser and servers.",
+        "Tested the data in <b>PostGreSQL</b> database using SQL queries.",
+        "Worked on <b>TFS</b> as a version control.",
+        "Designed and developed the application using <b>Agile Scrum methodology</b> by breaking down the project to several sprints.",
+        "Used <b>JIRA</b> to keep track of bugs to reduce downtime, increase productivity, and improve communication."
+      ]
+    },
+    {
+      "title": "RebateMetrics",
+      "startDate": "InRhythm Solutions Jul 2016 - May 2019",
+      "description": "RebateMetrics is used for the configuration, management, and tracking of wholesale and retail trade programs",
+      "images": [],
+      "url": "",
+      "technologies": [
+        "I contributed to the team as a junior angular developer.",
+        "Involved in development of web application using <b>Angular 5, HTML, CSS, Ignite UI, TypeScript</b>.",
+        "Involved in writing application-level code interact with API’s using JSON.",
+        "Created templates and style sheets based on UI standards and guidelines. Performed functional tasks using specifications and wireframes.",
+        "Extensively used Debugging JavaScript using <b>Chrome developer Toolbar</b>.",
+        "Used JSON to send request to the server to check the functionality of the websites and for storing and exchanging information between browser and servers.",
+        "Worked on <b>TFS</b> as a version control.",
+        "Participate in the team on <b>agile development cycle</b>. Followed <b>Scrum</b> methodology."
+      ]
+    },
+    {
+      "title": "Case Study",
+      "startDate": "InRhythm Solutions Jul 2016 - May 2019",
+      "description": "Bus Ticket Booking is used to book tickets to travel.",
+      "images": [],
+      "url": "",
+      "technologies": [
+        "Worked with other 3 interns to design and develop a ticket booking website under the supervision of manager and gained practical experience using HTML, CSS."
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "company": "Tata Consultancy Services",
+      "title": "Senior Angular Developer",
+      "years": "Nov 2021 - Present",
+      "mainTech": ["Angular 12/14"],
+      "technologies": [
+        "HTML5",
+        "CSS3",
+        "TypeScript",
+        "Angular Material",
+        "RxJS",
+        "Bootstrap",
+        "Responsive Design",
+        "Karma-Jasmine",
+        "Jira",
+        "GitHub",
+        "Bitbucket",
+        "Azure Cloud",
+        "Agile",
+        "PostgreSQL"
+      ]
+    },
+    {
+      "company": "Cognizant",
+      "title": "Angular Developer",
+      "years": "Dec 2020 - Nov 2021",
+      "mainTech": ["Angular 12"],
+      "technologies": [
+        "HTML5",
+        "CSS3",
+        "TypeScript",
+        "Kendo Grid UI",
+        "RxJS",
+        "Azure DevOps",
+        "TFS",
+        "Agile",
+        "SQL"
+      ]
+    },
+    {
+      "company": "Accion Labs",
+      "title": "Front-End Developer",
+      "years": "Jun 2019 - Dec 2020",
+      "mainTech": ["Angular 9"],
+      "technologies": [
+        "HTML5",
+        "CSS3",
+        "TypeScript",
+        "IGNITE UI",
+        "Bootstrap",
+        "RxJS",
+        "Jira",
+        "TFS",
+        "Agile",
+        "Oracle SQL"
+      ]
+    },
+    {
+      "company": "InRhythm Solutions",
+      "title": "Junior Front-End Developer",
+      "years": "Jul 2016 - May 2019",
+      "mainTech": ["Angular 6/7"],
+      "technologies": [
+        "HTML",
+        "CSS",
+        "TypeScript",
+        "PrimeNg",
+        "Bootstrap",
+        "RxJS",
+        "TFS",
+        "Oracle SQL"
+      ]
+    }
+  ]
+}
